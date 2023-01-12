@@ -1,0 +1,139 @@
+.cardname {
+  margin: 10px;
+}
+.card-deck {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.contact {
+  margin-top: 10px;
+  color: #800080;
+}
+.profile {
+  color: #800080;
+}
+.btn-primary {
+  opacity: 100%;
+}
+.friend {
+  color: #800080;
+  display: flex;
+  align-items: flex-start;
+  margin-left: 190px;
+  margin-top: 30px;
+}
+.first {
+  margin-left: 110px;
+}
+.footer {
+  color: #800080;
+  float: left;
+  margin-left: 140px;
+  margin-top: 20px;
+}
+.card-deck div {
+  margin: 15px 15px 2px 15px;
+  border-radius: 15px;
+  box-sizing: border-box;
+}
+.button {
+  color: white;
+  background-color: #800080;
+  border-radius: 25px;
+}
+.title {
+  float: left;
+  color: white;
+}
+.box {
+  display: inline;
+  margin: 20px;
+}
+.wallet {
+  color: #800080;
+}
+.nav{
+  color: #800080;
+}
+.referral {
+  color: #800080;
+  margin-left: -90px;
+}
+.three {
+  color: #626262;
+  height: 20px;
+}
+.refer {
+  margin-right: 950px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.assignment {
+  color: rgba(128, 0, 128, 0.25);
+}
+.chat {
+  color: rgba(128, 0, 128, 0.25);
+}
+.date {
+  color: white;
+}
+.btn {
+  color: black;
+}
+.ref1 {
+  margin-left: 100px;
+}
+.ref2 {
+  margin: auto;
+}
+.ref3 {
+  margin-right: 100px;
+}
+.tag {
+  background-image: linear-gradient(to right, #ff864c, #800080);
+}
+.tutedude {
+  width: 160px;
+  height: 63px;
+}
+.container {
+  display: flex;
+  text-align: left;
+}
+.name {
+  margin: 11px;
+}
+
+.logo > span {
+  background-color: rgba(217, 217, 217, 0.25);
+  border-radius: 30px;
+  width: 30px;
+  height: auto;
+}
+h6 {
+  margin-left: 50px;
+}
+.container-two {
+  margin-left: 200px;
+}
+span {
+  color: #800080;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.wallet {
+  margin: 0px;
+  margin-right: 60px;
+  margin-top: -45px;
+}
+.number {
+  margin-right: 45px;
+}
+.numberone {
+  margin-right: 35px;
+}
